@@ -4,9 +4,9 @@
 
 <strong>How it looks like:</strong>
 
-  ![The Hungry Snake](https://user-images.githubusercontent.com/102348951/216925463-f8ecba07-f954-4535-9fe1-3c95480ecbff.jpg)
+  ![screenshot01](https://user-images.githubusercontent.com/102348951/216931457-160fbd9e-225e-4ee8-aeda-7f85c623d005.jpg)
   
-  ![The Hungry Snake (after Game Over)](https://user-images.githubusercontent.com/102348951/216925497-61d73cd4-044b-478b-ad43-8b0cfb042c76.jpg)
+  ![screenshot02](https://user-images.githubusercontent.com/102348951/216931501-e8392de0-c142-4b29-a050-a300e8a8dc12.jpg)
 
 <strong>Requirements:</strong>
   1. Python 3.x
