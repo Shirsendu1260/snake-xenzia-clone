@@ -5,8 +5,6 @@ Created on Sun Feb  5 10:29:17 2023
 @author: SHIRSENDU MALI
 """
 
-# snake.py: A Python-made game where a Snake chases a Fruit to eat and survive.
-
 
 import pygame
 from random import randint
