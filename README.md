@@ -1,6 +1,6 @@
 # snake-xenzia-clone
 
-<strong>Description</strong>: A Python-made game where a Snake chases a Fruit to eat and survive. This game is completely built with Python with the help of 'pygame' module.
+<strong>Description</strong>: A Python-made game inspired from Nokia's famous retro game 'Snake Xenzia', where a snake has to eat fruits to grow and by which the user scores. This game is completely built with Python with the help of 'pygame' module.
 
 <strong>How it looks like:</strong>
 
