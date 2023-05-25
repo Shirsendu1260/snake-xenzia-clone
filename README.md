@@ -1,4 +1,4 @@
-# the-hungry-snake
+# snake-xenzia-clone
 
 <strong>Description</strong>: A Python-made game where a Snake chases a Fruit to eat and survive. This game is completely built with Python with the help of 'pygame' module.
 
